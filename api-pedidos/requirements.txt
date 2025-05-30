@@ -1,0 +1,6 @@
+flask
+requests
+redis
+mysql-connector-python
+python-dotenv
+
